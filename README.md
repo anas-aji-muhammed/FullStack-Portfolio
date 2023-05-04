@@ -11,7 +11,7 @@ The front-end of the application was developed using HTML, CSS, and Bootstrap to
 </div>
 
 ## Blogging Site Project
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies%20Used&align=center&lineCount=2&theme=github_dark&line1=node.js,node.js,4d600d;mongodb,mongodb,4d600d;EJS,EJS,4d600d;express,express,fde25a;mailchimp,mailchimp,0917c8;&line2=html,html,7c42f9;css,css,8f207a;" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies%20Used&align=center&lineCount=2&theme=github_dark&line1=node.js,node.js,4d600d;mongodb,mongodb,4d600d;EJS,EJS,4d600d;express,express,fde25a;&line2=html,html,7c42f9;css,css,8f207a;" alt="My Tech Stack" />
 
 <div align="justify">
 
