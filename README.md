@@ -8,7 +8,7 @@ This newsletter sign-up project was developed using **Node.js**, **Express.js**,
 
 The front-end of the application was developed using HTML, CSS, and Bootstrap to provide a responsive and visually appealing user interface. The back-end was built using Express.js, and Node.js, and uses the Mailchimp API to add users to a specific mailing list. The application also includes error handling to receive feedback on the success or failure of their sign-up attempt. The dependencies used in this project include Body Parser, Express, and HTTPS.
 </div>
-[Newsletter Project](https://github.com/anas-aji-muhammed/FullStack-Portfolio/tree/main/newsletter-node "Newsletter Project")
+[Newsletter Project]: (https://github.com/anas-aji-muhammed/FullStack-Portfolio/tree/main/newsletter-node)
 
 
 ## Blogging Site Project
@@ -16,7 +16,7 @@ The front-end of the application was developed using HTML, CSS, and Bootstrap to
 
 <div align="justify">
 
-This blogging project was developed using **Node.js**, **Express.js**, **Mongo DB **, **EJS**, **Bootstrap**, **HTML**, and **CSS**. The project aims to provide a simple UI to signup users for mailing list.
+This blogging project was developed using **Node.js**, **Express.js**, **Mongo DB**, **EJS**, **Bootstrap**, **HTML**, and **CSS**. The project aims to provide a simple UI to signup users for mailing list.
 
 The app includes the following features:
 
