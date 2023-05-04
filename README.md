@@ -17,6 +17,12 @@ The front-end of the application was developed using HTML, CSS, and Bootstrap to
 
 This blogging project was developed using **Node.js**, **Express.js**, **Mongo DB **, **EJS**, **Bootstrap**, **HTML**, and **CSS**. The project aims to provide a simple UI to signup users for mailing list.
 
-The front-end of the application was developed using HTML, CSS, and Bootstrap to provide a responsive and visually appealing user interface. The back-end was built using Express.js, and Node.js, and uses the Mailchimp API to add users to a specific mailing list. The application also includes error handling to receive feedback on the success or failure of their sign-up attempt. The dependencies used in this project include Body Parser, Express, and HTTPS.
+The app includes the following features:
 
+- Compose: Users can compose blog posts using a simple and user-friendly interface.
+- Save: Blog posts are saved to a database, ensuring that they are secure and can be accessed later.
+- Read: Users can read blog posts from the database and view them in a clean and organized format.
+- Find: Users can search for blog posts by blog id, making it easy to find specific topics.
+
+The front-end of the app was developed using EJS, while the back-end was built using Node.js and MongoDB.
 </div>
