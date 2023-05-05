@@ -31,7 +31,7 @@ The front-end of the app was developed using EJS, while the back-end was built u
 </div>
 
 ## Secrets App
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies%20Used&align=center&lineCount=2&theme=github_dark&line1=node.js,node.js,4d600d;mongodb,mongodb,4d600d;passport.js,passport.js,4d600d;oAuth2.0,oAuth2.0,4d600d;EJS,EJS,4d600d;express,express,fde25a;&line2=html,html,7c42f9;css,css,8f207a;" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies%20Used&align=center&lineCount=2&theme=github_dark&line1=node.js,node.js,4d600d;mongodb,mongodb,4d600d;EJS,EJS,4d600d;express,express,fde25a;&line2=html,html,7c42f9;css,css,8f207a;passport.js,passport.js,4d600d;oAuth2.0,oAuth2.0,4d600d;" alt="My Tech Stack" />
 
 <div align="justify">
 This project implements different levels of authentication and security features in a minimalistic version of the Whisper app called secrets app. The levels include mongoose encryption and .env files, MD5 hashing, bcrypt hashing with salting rounds, passport.js authentication, and OAuth 2.0 and social login with Google Sign-In. Each level adds an additional layer of security and user authentication to the web app, making it more secure and resistant to unauthorized access.
